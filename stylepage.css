@@ -26,3 +26,5 @@
     box-shadow: 0 5px 10px 0px rgb(0, 60, 255);
     background: linear-gradient(#121212, #121212)
 }
+
+@media (max-width: 1060px)
