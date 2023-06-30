@@ -1,0 +1,23 @@
+
+.block {
+    display: block;
+    line-height: auto;
+    border-radius: 5px;
+    box-shadow: 0 20px 70px -20px;
+    padding: 20px 20px 20px 20px;
+    width: auto;
+    margin: 300px 300px 30px 300px;
+    box-sizing: border-box;
+    background: linear-gradient(#000000, #434343) fixed;
+}
+.button {
+    display: block;
+    line-height: auto;
+    border-radius: 5px;
+    box-shadow: 0 20px 70px -20px;
+    padding: 10px 0px 10px 0px;
+    width: auto;
+    margin: 30px 300px 300px 300px;
+    box-sizing: border-box;
+    background: linear-gradient(#000000, #434343) fixed;
+}
