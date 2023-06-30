@@ -1,0 +1,28 @@
+
+.block {
+    display: block;
+    line-height: auto;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px 0px rgb(0, 120, 255);
+    padding: 20px 20px 20px 20px;
+    width: auto;
+    margin: 300px 300px 30px 300px;
+    box-sizing: border-box;
+    background: linear-gradient(#121212, #121212) fixed;
+}
+.button {
+    display: block;
+    line-height: auto;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px 0px rgb(0, 120, 255);
+    padding: 10px 0px 10px 0px;
+    width: auto;
+    margin: 30px 300px 300px 300px;
+    box-sizing: border-box;
+    background: linear-gradient(#121212, #121212) fixed;
+}
+
+.button:hover {
+    box-shadow: 0 5px 10px 0px rgb(0, 60, 255);
+    background: linear-gradient(#121212, #121212)
+}
